@@ -1,0 +1,13 @@
+.loginpage {
+  padding: 3%;
+  border: dotted;
+}
+
+.form {
+  padding-top: 10%;
+  display: flex;
+  align-content: center;
+  flex-direction: column;
+  flex-wrap: wrap;
+  padding-bottom: 2%;
+}

@@ -1,0 +1,8 @@
+.adminpage {
+  display: flex;
+  flex-direction: column;
+  justify-self: center;
+  width: 60%;
+  margin: auto;
+  padding-top: 3%;
+}

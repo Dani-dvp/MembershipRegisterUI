@@ -1,0 +1,9 @@
+.navigationbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 25px;
+  margin-top: 1%;
+  border: solid rgb(46, 46, 56);
+  background-color: black;
+}
